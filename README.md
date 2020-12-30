@@ -1,4 +1,7 @@
 # ParallelTaskManagerMatlab
+
+[![View 并行 任务 管理 Parallel Task Manager on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://ww2.mathworks.cn/matlabcentral/fileexchange/84978-parallel-task-manager)
+
 MATLAB并行任务优化管理器，只需输入具体的工作函数和数据，就能自动实现高效率的并行化处理。你也可以只生成分配方案然后自行调度。
 
 ## AllocateTasksFairly
